@@ -1,2 +1,3 @@
 simple text
 new message
+new info
