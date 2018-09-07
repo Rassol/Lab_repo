@@ -4,3 +4,4 @@ new info
 new foo
 new commit A
 Commit
+new info 1
