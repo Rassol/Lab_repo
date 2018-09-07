@@ -6,3 +6,4 @@ new commit A
 Commit
 new info 1
 1239
+power
