@@ -3,3 +3,4 @@ new message
 new info
 new foo
 new commit A
+Commit
