@@ -1,3 +1,4 @@
 simple text
 new message
 new info
+new foo
